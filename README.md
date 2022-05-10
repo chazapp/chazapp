@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @chazapp
 - 👀 I’m interested in software, web development, IT Security and DevOps
-- 🌱 I’m currently learning Ansible, Terraform & Kubernetes
 - 🌱 I'm also building my own multiplayer game, https://mtvs.io
 - 📫 You can find me at https://chaz.pro
